@@ -134,9 +134,9 @@ Peatio is released under the terms of the MIT license. See [http://peatio.mit-li
 **peatio-opensource-donate** address [1HjfnJpQmANtuW7yr1ggeDfyfe1kDK7rm3](https://blockchain.info/address/1HjfnJpQmANtuW7yr1ggeDfyfe1kDK7rm3)
 
 
-### What is Peatio?
+### What is Pixiu?
 
-[Peatio](http://en.wikipedia.org/wiki/Pixiu) (Chinese: 貔貅) is a Chinese mythical hybrid creature considered to be a very powerful protector to practitioners of Feng Shui.
+[Pixiu](http://en.wikipedia.org/wiki/Pixiu) (Chinese: 貔貅) is a Chinese mythical hybrid creature considered to be a very powerful protector to practitioners of Feng Shui.
 
 **[This illustration copyright for Peatio Team]**
 
